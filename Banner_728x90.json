@@ -1,0 +1,19 @@
+{
+	"id": "7989e6199671443caabc4102397549cf",
+	"seatbid": [{
+		"bid": [{
+			"id": "1",
+			"impid": "9192bd91-2376-4585-8f1f-5f4e8bd3802a",
+			"price": 0.3235,
+			"nurl": "http://backend.us-west1gcp0.pubnative.net/mockdsp/v1/tracker/nurl?app_id=1138111\u0026p=${AUCTION_PRICE}",
+			"adm": "\u003ca target=\"_blank\" href=\"https://play.google.com/store/apps/details?id=net.pubnative.easysteps\"\u003e\u003cimg src=\"https://cdn.pubnative.net/widget/v3/assets/easysteps_728x90.jpg\" width=\"728\" height=\"90\" border=\"0\" alt=\"Advertisement\" /\u003e\u003c/a\u003e",
+			"adomain": ["pubnative.net"],
+			"iurl": "https://cdn.pubnative.net/widget/v3/assets/easysteps_728x90.jpg",
+			"cid": "test_campaign",
+			"crid": "test_creative",
+			"attr": [4]
+		}],
+		"seat": "7"
+	}],
+	"bidid": "1acfc770-7921-482b-a1e0-987902610b70"
+}
