@@ -1,0 +1,19 @@
+{
+	"id": "9ec23bc0911442df8645c8552810ed3b",
+	"seatbid": [{
+		"bid": [{
+			"id": "1",
+			"impid": "e0e2f8f5-6305-4a0e-a5e8-9727c09edd06",
+			"price": 0.076,
+			"nurl": "https://backend.europe-west4gcp0.pubnative.net/mockdsp/v1/tracker/nurl?app_id=1410522\u0026p=${AUCTION_PRICE}",
+			"adm": "{\"native\":{\"assets\":[{\"id\":1,\"data\":{\"label\":\"cta\",\"value\":\"Install\"}},{\"id\":2,\"required\":1,\"title\":{\"text\":\"EasyForecast\"}},{\"id\":3,\"required\":1,\"img\":{\"url\":\"https://cdn.pubnative.net/widget/v3/assets/icon_easyforecast.jpg\",\"w\":80,\"h\":80}},{\"id\":4,\"required\":1,\"img\":{\"url\":\"https://cdn.pubnative.net/widget/v3/assets/img_easyforecast.png\",\"w\":1200,\"h\":627}},{\"id\":5,\"data\":{\"label\":\"rating\",\"value\":\"4.5\"}},{\"id\":6,\"required\":1,\"data\":{\"label\":\"description\",\"value\":\"Predicting the weather was never so EASY\"}}],\"link\":{\"url\":\"https://itunes.apple.com/us/app/id1382171002\",\"clicktrackers\":[\"https://backend.europe-west4gcp0.pubnative.net/mockdsp/v1/tracker/clk?app_id=1410522\\u0026beacon=1\\u0026p=${AUCTION_PRICE}\",\"https://backend.europe-west4gcp0.pubnative.net/mockdsp/v1/tracker/clk?app_id=1410522\\u0026beacon=2\\u0026p=${AUCTION_PRICE}\"],\"fallback\":\"https://pubnative.net\"},\"imptrackers\":[\"https://backend.europe-west4gcp0.pubnative.net/mockdsp/v1/tracker/imp?app_id=1410522\\u0026beacon=1\\u0026p=${AUCTION_PRICE}\",\"https://backend.europe-west4gcp0.pubnative.net/mockdsp/v1/tracker/imp?app_id=1410522\\u0026beacon=2\\u0026p=${AUCTION_PRICE}\",\"https://backend.europe-west4gcp0.pubnative.net/mockdsp/v1/tracker/imp?app_id=1410522\\u0026beacon=3\\u0026p=${AUCTION_PRICE}\",\"https://backend.europe-west4gcp0.pubnative.net/mockdsp/v1/tracker/imp?app_id=1410522\\u0026beacon=4\\u0026p=${AUCTION_PRICE}\",\"https://backend.europe-west4gcp0.pubnative.net/mockdsp/v1/tracker/imp?app_id=1410522\\u0026beacon=5\\u0026p=${AUCTION_PRICE}\",\"https://backend.europe-west4gcp0.pubnative.net/mockdsp/v1/tracker/imp?app_id=1410522\\u0026beacon=6\\u0026p=${AUCTION_PRICE}\",\"https://backend.europe-west4gcp0.pubnative.net/mockdsp/v1/tracker/imp?app_id=1410522\\u0026beacon=7\\u0026p=${AUCTION_PRICE}\",\"https://backend.europe-west4gcp0.pubnative.net/mockdsp/v1/tracker/imp?app_id=1410522\\u0026beacon=8\\u0026p=${AUCTION_PRICE}\",\"https://backend.europe-west4gcp0.pubnative.net/mockdsp/v1/tracker/imp?app_id=1410522\\u0026beacon=9\\u0026p=${AUCTION_PRICE}\",\"https://backend.europe-west4gcp0.pubnative.net/mockdsp/v1/tracker/imp?app_id=1410522\\u0026beacon=10\\u0026p=${AUCTION_PRICE}\"],\"jstracker\":\"\\u003cscript\\u003e(function(){var u=[\\\"https://got.pubnative.net/impression?aid=1410522\\u0026t=eFAQp_mSAJIMWCkUam2f5vg-29vGushsAwIIs-BFe-jXY1aUxYs4OdKlJbMUfBH8BObg5IGoHsmmPO3yJKAzTFzHL1rgVtlHVFgFSsvmP1baGpEZekMhBPw5_s-mo4Wulm3xoQCiUTQgDNiSTTOFOejKqyB4uPkU2S6W_CDqiBVxAzAUTKhPvsWLuGHbAL1AFB-ydA_1AlQO52GuwKYOjtIUXHliCXr1q36dtM54PVkvmXyoG79Q4dQdrjB1VhV6oSReT_b1T55J1R03_snMfHS904nYXJClgGnw5XiwP5w0EcCU_bLpdFx1_QyHcvDqHIklIzRY7BiOgOlDnbswFVbN3imThJIsSvIPfzlZO2H3Pb9aUpok4_U1OGPX79ZYq_s9T9nMFY_WEOX4GnjoIJUHT04\\u0026tl=411\\\"];var s=document.createElement(\\\"span\\\");s.style.display=\\\"none\\\";for(var n=0;n\\u003cu.length;n++){var i=document.createElement(\\\"img\\\");i.src=u[n];s.appendChild(i);}var b=document.getElementsByTagName(\\\"body\\\")[0];b.appendChild(s);})()\\u003c/script\\u003e\"}}",
+			"adomain": ["pubnative.net"],
+			"iurl": "https://cdn.pubnative.net/widget/v3/assets/img_easyforecast.png",
+			"cid": "test_campaign",
+			"crid": "test_creative",
+			"attr": [4]
+		}],
+		"seat": "7"
+	}],
+	"bidid": "3f131b55-2c31-4b45-a860-bbe7d64d6e4c"
+}
