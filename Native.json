@@ -1,0 +1,19 @@
+{
+	"id": "4008641b5fe749bab163ab7e220f5e7e",
+	"seatbid": [{
+		"bid": [{
+			"id": "1",
+			"impid": "73df6135-2f80-4675-8858-03b3241a2fb4",
+			"price": 0.3235,
+			"nurl": "http://backend.us-east4gcp0.pubnative.net/mockdsp/v1/tracker/nurl?app_id=1138111\u0026p=${AUCTION_PRICE}",
+			"adm": "{\"native\":{\"assets\":[{\"id\":5,\"data\":{\"label\":\"rating\",\"value\":\"4.5\"}},{\"id\":6,\"required\":1,\"data\":{\"label\":\"description\",\"value\":\"Tracking your life was never so EASY\"}},{\"id\":1,\"data\":{\"label\":\"cta\",\"value\":\"Install\"}},{\"id\":2,\"required\":1,\"title\":{\"text\":\"EasySteps\"}},{\"id\":3,\"required\":1,\"img\":{\"url\":\"http://cdn.pubnative.net/widget/v3/assets/icon_easysteps.jpg\",\"w\":80,\"h\":80}},{\"id\":4,\"required\":1,\"img\":{\"url\":\"http://cdn.pubnative.net/widget/v3/assets/img_easysteps.png\",\"w\":1200,\"h\":627}}],\"link\":{\"url\":\"https://play.google.com/store/apps/details?id=net.pubnative.easysteps\",\"clicktrackers\":[\"http://backend.us-east4gcp0.pubnative.net/mockdsp/v1/tracker/clk?app_id=1138111\\u0026beacon=1\\u0026p=${AUCTION_PRICE}\",\"http://backend.us-east4gcp0.pubnative.net/mockdsp/v1/tracker/clk?app_id=1138111\\u0026beacon=2\\u0026p=${AUCTION_PRICE}\"],\"fallback\":\"http://pubnative.net\"},\"imptrackers\":[\"http://backend.us-east4gcp0.pubnative.net/mockdsp/v1/tracker/imp?app_id=1138111\\u0026beacon=1\\u0026p=${AUCTION_PRICE}\",\"http://backend.us-east4gcp0.pubnative.net/mockdsp/v1/tracker/imp?app_id=1138111\\u0026beacon=2\\u0026p=${AUCTION_PRICE}\",\"http://backend.us-east4gcp0.pubnative.net/mockdsp/v1/tracker/imp?app_id=1138111\\u0026beacon=3\\u0026p=${AUCTION_PRICE}\",\"http://backend.us-east4gcp0.pubnative.net/mockdsp/v1/tracker/imp?app_id=1138111\\u0026beacon=4\\u0026p=${AUCTION_PRICE}\",\"http://backend.us-east4gcp0.pubnative.net/mockdsp/v1/tracker/imp?app_id=1138111\\u0026beacon=5\\u0026p=${AUCTION_PRICE}\",\"http://backend.us-east4gcp0.pubnative.net/mockdsp/v1/tracker/imp?app_id=1138111\\u0026beacon=6\\u0026p=${AUCTION_PRICE}\",\"http://backend.us-east4gcp0.pubnative.net/mockdsp/v1/tracker/imp?app_id=1138111\\u0026beacon=7\\u0026p=${AUCTION_PRICE}\",\"http://backend.us-east4gcp0.pubnative.net/mockdsp/v1/tracker/imp?app_id=1138111\\u0026beacon=8\\u0026p=${AUCTION_PRICE}\",\"http://backend.us-east4gcp0.pubnative.net/mockdsp/v1/tracker/imp?app_id=1138111\\u0026beacon=9\\u0026p=${AUCTION_PRICE}\",\"http://backend.us-east4gcp0.pubnative.net/mockdsp/v1/tracker/imp?app_id=1138111\\u0026beacon=10\\u0026p=${AUCTION_PRICE}\"],\"jstracker\":\"\\u003cscript\\u003e(function(){var u=[\\\"http://got.pubnative.net/impression?aid=1138111\\u0026t=eFAQp_mSAJIMWCkUam2f5vg-29vGushsAwIIs-BFe-jXY1aUxYs4OdKlJbMUfBH8BObg5IGoHsmmPO3yJKAzTFzHL1rgVtlHVFgFSsvmP1baGpEZekMhBPw5_s-mo4Wulm3xoQCiUTQgDNiSTTOFOejKqyB4uPkU2S6W_CDqiBVxAzAUTKhPvsWLuGHbAL1AFB-ydA_1AlQO52GuwKYOjtIUXHliCXr1q36dtM54PVkvmXyoG79Q4dQdrjB1VhV6oSReT_b1T55J1R03_snMfHS904nYXJClgGnw5XiwP5w0EcCU_bLpdFx1_QyHcvDqHIklIzRY7BiOgOlDnbswFVbN3imThJIsSvIPfzlZO2H3Pb9aUpok4_U1OGPX79ZYq_s9T9nMFY_WEOX4GnjoIJUHT04\\u0026tl=411\\\"];var s=document.createElement(\\\"span\\\");s.style.display=\\\"none\\\";for(var n=0;n\\u003cu.length;n++){var i=document.createElement(\\\"img\\\");i.src=u[n];s.appendChild(i);}var b=document.getElementsByTagName(\\\"body\\\")[0];b.appendChild(s);})()\\u003c/script\\u003e\"}}",
+			"adomain": ["pubnative.net"],
+			"iurl": "https://cdn.pubnative.net/widget/v3/assets/img_easysteps.png",
+			"cid": "test_campaign",
+			"crid": "test_creative",
+			"attr": [4]
+		}],
+		"seat": "7"
+	}],
+	"bidid": "033a4e4e-b9f8-4df4-b307-976c3bbe0b9f"
+}
