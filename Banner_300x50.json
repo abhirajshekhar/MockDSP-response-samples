@@ -1,0 +1,32 @@
+{
+	"id": "1681a869a21642728167e07df218811a",
+	"seatbid": [{
+		"bid": [{
+			"id": "1",
+			"impid": "88668669-2eff-4751-b9a3-0f0a1c36c98e",
+			"price": 0.846,
+			"nurl": "https://backend.us-east4gcp0.pubnative.net/mockdsp/v1/tracker/nurl?app_id=1818069\u0026p=${AUCTION_PRICE}",
+			"adm": "\u003ca target=\"_blank\" href=\"https://itunes.apple.com/us/app/id1382171002\"\u003e\u003cimg src=\"https://cdn.pubnative.net/widget/v3/assets/easyforecast_300x50.jpg\" width=\"300\" height=\"50\" border=\"0\" alt=\"Advertisement\" /\u003e\u003c/a\u003e",
+			"adomain": ["pubnative.net"],
+			"iurl": "https://cdn.pubnative.net/widget/v3/assets/easyforecast_300x50.jpg",
+			"cid": "test_campaign",
+			"crid": "test_creative",
+			"attr": [4],
+			"ext": {
+				"skadn": {
+					"campaign": "26",
+					"fidelity-type": 1,
+					"itunesitem": "1382171002",
+					"network": "TL55SBB4FM.skadnetwork",
+					"nonce": "2ef4c5f5-f719-4243-bdae-d95a03df1311",
+					"signature": "MDQCGHxWr02xymWhC0wlLXcNPmprpjhGMr54/gIYJbkv1etYWtWXroFY31uYq9DYOlWFapTK",
+					"sourceapp": "319881193",
+					"timestamp": "1627032067",
+					"version": "2.2"
+				}
+			}
+		}],
+		"seat": "7"
+	}],
+	"bidid": "4882411d-3ec2-4e59-8711-b47ddc1a52be"
+}
