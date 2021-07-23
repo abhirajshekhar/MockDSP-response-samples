@@ -1,0 +1,19 @@
+{
+	"id": "f32d201be2b147ba95f06e7b4efcc152",
+	"seatbid": [{
+		"bid": [{
+			"id": "1",
+			"impid": "2e165ee5-a5b5-4073-a449-ed150630d722",
+			"price": 0.257559139,
+			"nurl": "https://backend.europe-west4gcp0.pubnative.net/mockdsp/v1/tracker/nurl?app_id=1496226\u0026p=${AUCTION_PRICE}",
+			"adm": "\u003ca target=\"_blank\" href=\"https://itunes.apple.com/us/app/id1382171002\"\u003e\u003cimg src=\"https://cdn.pubnative.net/widget/v3/assets/easyforecast_728x90.jpg\" width=\"728\" height=\"90\" border=\"0\" alt=\"Advertisement\" /\u003e\u003c/a\u003e",
+			"adomain": ["pubnative.net"],
+			"iurl": "https://cdn.pubnative.net/widget/v3/assets/easyforecast_728x90.jpg",
+			"cid": "test_campaign",
+			"crid": "test_creative",
+			"attr": [4]
+		}],
+		"seat": "7"
+	}],
+	"bidid": "42588dce-69d1-4b94-b64f-20d02d1179f3"
+}
