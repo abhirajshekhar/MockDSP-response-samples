@@ -1,0 +1,32 @@
+{
+	"id": "b67a19116f0c420abf759f99cd996dab",
+	"seatbid": [{
+		"bid": [{
+			"id": "1",
+			"impid": "cc8dd69b-3b4c-44cd-9920-c1b59aa638ee",
+			"price": 0.571,
+			"nurl": "https://backend.europe-west4gcp0.pubnative.net/mockdsp/v1/tracker/nurl?app_id=1818069\u0026p=${AUCTION_PRICE}",
+			"adm": "\u003cscript src=\"mraid.js\"\u003e\u003c/script\u003e \u003cdiv id=\"adContainer\" style=\"width:320px;margin:0px;padding:0px;background-color:#ffffff;\"\u003e\u003cdiv id=\"expanded\" style=\"display:none;width:320px;height:480px;margin:auto;position:relative;top:0px;left:0px;\"\u003e\u003ca target=\"_blank\" href=\"https://itunes.apple.com/us/app/id1382171002\"\u003e\u003cimg src=\"https://cdn.pubnative.net/widget/v3/assets/easyforecast_320x480.jpg\" width=\"320\" height=\"480\" border=\"0\" alt=\"Advertisement\" /\u003e\u003c/a\u003e\u003c/div\u003e\u003c/div\u003e\u003cstyle type=\"text/css\"\u003ebody{background-color:#FFFFFF;}\u003c/style\u003e\u003cscript\u003efunction mraidIsReady(){mraid.removeEventListener(\"ready\", mraidIsReady);prepareMyAd();}function prepareMyAd(){if (!mraid.isViewable()){mraid.addEventListener(\"viewableChange\", isInterstitialDisplayed);}else{showMyAd();}}function isInterstitialDisplayed(displayed){if (displayed){mraid.removeEventListener(\"viewableChange\", isInterstitialDisplayed);showMyAd();}}function showMyAd(){var el=document.getElementById(\"expanded\"); el.style.display='';}function openSite(url){mraid.open(url);}function setupViewport(width){var element=document.querySelector(\"meta[name=viewport]\");if (!element){element=document.createElement(\"meta\");element.name=\"viewport\";element.content=\"width=\" + width + \", user-scalable=no\";document.getElementsByTagName('head')[0].appendChild(element);}else{element.content=\"width=\" + width + \", user-scalable=no\";}}setupViewport(320);function doReadyCheck(){if (mraid.getState()=='loading'){mraid.addEventListener(\"ready\", mraidIsReady);}else{prepareMyAd();}}doReadyCheck();\u003c/script\u003e",
+			"adomain": ["pubnative.net"],
+			"iurl": "https://cdn.pubnative.net/widget/v3/assets/easyforecast_320x480.jpg",
+			"cid": "test_campaign",
+			"crid": "test_creative",
+			"attr": [4],
+			"ext": {
+				"skadn": {
+					"campaign": "89",
+					"fidelity-type": 1,
+					"itunesitem": "1382171002",
+					"network": "TL55SBB4FM.skadnetwork",
+					"nonce": "5083e909-244f-4eff-9298-30ad359bee4c",
+					"signature": "MDYCGQCIpZjmB/Q38SjJ6lynV/S1gKCVBnQHqKsCGQDpdfDHRiTJ1GhlnzRWcC6uH12qcNsWljM=",
+					"sourceapp": "319881193",
+					"timestamp": "1627032215",
+					"version": "2.2"
+				}
+			}
+		}],
+		"seat": "7"
+	}],
+	"bidid": "d7c6c841-b8af-4df8-981b-8ecb0f6ce965"
+}
